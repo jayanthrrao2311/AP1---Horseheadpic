@@ -1,4 +1,4 @@
-# AP1---Horseheadpic
+# AP1-Horseheadpic
 this is a small project in TIKE cloud platform(Time series Integrated Knowledge Engine) .
 the dataset is MAST data which is stored in cloud .
 Here we are looking at a particular HST observation .
